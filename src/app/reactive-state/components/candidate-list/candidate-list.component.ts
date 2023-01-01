@@ -67,4 +67,6 @@ export class CandidateListComponent implements OnInit {
     ];
   }
 
+  
+
 }
